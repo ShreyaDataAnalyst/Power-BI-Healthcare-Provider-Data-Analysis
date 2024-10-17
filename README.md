@@ -27,8 +27,8 @@ https://github.com/user-attachments/assets/b51ae527-439c-47aa-a07b-2e0d65870ee6
 
 ## Steps Taken
 
-1. Downlaoded the dataset form Kaggle, identified the key indicators, cleaned them and preapared them for analysis
-2. Creating one to many relatonships between tables based on primary and forigen keys.
+1. Downlaoded the dataset form Kaggle, identified the key indicators, cleaned them and preapared it for analysis
+2. Creating one to many relatonships between tables based on primary and foreign keys.
 3. Creating measures and calculated column using DAX formulas 
 4. Creating charts and placing them in the dashboard
 5. Creating slicer for Year, Quater and Month
