@@ -13,8 +13,7 @@
 
 ## Demo
 
-<iframe width="560" height="315" src="C:\Users\ashre\Downloads\Healthcare Provider Dashboard - Power BI - 17 October 2024.mp4" frameborder="0" allowfullscreen></iframe>
-
+https://github.com/user-attachments/assets/b51ae527-439c-47aa-a07b-2e0d65870ee6
 
 
 ## Key Questions: 
@@ -58,7 +57,8 @@ Hypertension, appendicitis, and fractures dominate diagnoses, with emergency and
 
 ## Dashboard Screenshots
 
-
+![Healthcare_Provider_Billing_Dashboard_2](https://github.com/user-attachments/assets/36075995-6daa-4beb-bd4f-6f4931bcbf94)
+![Healthcare_Provider_Billing_Dashboard_1](https://github.com/user-attachments/assets/043ddc48-3516-4fd8-8d64-3d90c08c99a3)
 
 
 ## Recomendations
