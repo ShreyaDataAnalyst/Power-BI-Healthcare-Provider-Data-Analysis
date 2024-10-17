@@ -58,8 +58,9 @@ Hypertension, appendicitis, and fractures dominate diagnoses, with emergency and
 ## Dashboard Screenshots
 
 ![Healthcare_Provider_Billing_Dashboard_2](https://github.com/user-attachments/assets/36075995-6daa-4beb-bd4f-6f4931bcbf94)
-![Healthcare_Provider_Billing_Dashboard_1](https://github.com/user-attachments/assets/043ddc48-3516-4fd8-8d64-3d90c08c99a3)
 
+
+![Healthcare_Provider_Billing_Dashboard_1](https://github.com/user-attachments/assets/043ddc48-3516-4fd8-8d64-3d90c08c99a3)
 
 ## Recomendations
 
